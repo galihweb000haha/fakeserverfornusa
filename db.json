@@ -228,9 +228,58 @@
 { 
   "id": 25,
   "path": "/img/brands/Veeam.png"
-}]
+}],
+  
+  "chainsaw": [
+    { 
+      "id": 1,
+      "title": "C66 UHF RFID Reader (Android 11)",
+      "description": "Chainway handheld devices based on Android system make your data collection as easy as possible",
+      "foto": "/img/assetchainsaw/image1.png"
+    },
+    { 
+      "id": 2,
+      "title": "MR20 Wearable RFID Reader",
+      "description": "Available in various form factors, data capture capabilities and price points, they can be deployed quickly and easily.",
+      "foto": "/img/assetchainsaw/image2.png"
+    },
+    { 
+      "id": 3,
+      "title": "R6 UHF RFID Sled Reader",
+      "description": "Deliver flexible UHF data collection function, enhance efficiency, and streamline management.",
+      "foto": "/img/assetchainsaw/image3.png"
+    },
+    { 
+      "id": 4,
+      "title": "P80 Industrial Tablet (Android 9)",
+      "description": "Chainway industrial tablets with multiple functions cater to multiple industries",
+      "foto": "/img/assetchainsaw/image4.png"
+    },
+    { 
+      "id": 5,
+      "title": "V600S Vehicle Computer",
+      "description": "Chainway vehicle computers bring you security, reliability and flexibility in a safe road traffic",
+      "foto": "/img/assetchainsaw/image5.png"
+    },
+    { 
+      "id": 6,
+      "title": "R3 Desktop RFID Reader",
+      "description": "Chainway Fixed UHF RFID Readers feature high stability and powerful RFID performance to maximize efficiency.",
+      "foto": "/img/assetchainsaw/image6.png"
+    },
+    { 
+      "id": 7,
+      "title": "CP30 RFID Printer",
+      "description": "Chainway printers are compact, user-friendly, reliable and durable. The printers efficiently print barcodes, RFID tags, bills, wristbands.",
+      "foto": "/img/assetchainsaw/image7.png"
+    }
+  ]
 
 
 }
+
+
+
+
 
 
