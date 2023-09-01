@@ -126,5 +126,111 @@
     "id": 21,
     "path": "/img/Carousell_Logo/telkom.png"
   }
-  ]
+  ],
+  
+     "dataBrandNusa" : [
+{ 
+  "id": 1,
+  "path": "/img/brands/Barracuda.png"
+},
+{ 
+  "id": 2,
+  "path": "/img/brands/Cambium.png"
+},
+{ 
+  "id": 3,
+  "path": "/img/brands/Cato Networks.png"
+},
+{ 
+  "id": 4,
+  "path": "/img/brands/Cisco_Logo.svg"
+},
+{ 
+  "id": 5,
+  "path": "/img/brands/Crowdstrike.png"
+},
+{ 
+  "id": 6,
+  "path": "/img/brands/D-Link.png"
+},
+{ 
+  "id": 7,
+  "path": "/img/brands/Dell.png"
+},
+{ 
+  "id": 8,
+  "path": "/img/brands/EnGenius.png"
+},
+{ 
+  "id": 9,
+  "path": "/img/brands/Fortinet.png"
+},
+{ 
+  "id": 10,
+  "path": "/img/brands/HP.png"
+},
+{ 
+  "id": 11,
+  "path": "/img/brands/HPE.png"
+},
+{ 
+  "id": 12,
+  "path": "/img/brands/Huawei.png"
+},
+{ 
+  "id": 13,
+  "path": "/img/brands/Infotrend.png"
+},
+{ 
+  "id": 14,
+  "path": "/img/brands/Juniper.png"
+},
+{ 
+  "id": 15,
+  "path": "/img/brands/Lenovo.png"
+},
+{ 
+  "id": 16,
+  "path": "/img/brands/logoFinalCompleteColored.png"
+},
+{ 
+  "id": 17,
+  "path": "/img/brands/Nutanix.png"
+},
+{ 
+  "id": 18,
+  "path": "/img/brands/Paloalto.png"
+},
+{ 
+  "id": 19,
+  "path": "/img/brands/Peplink.png"
+},
+{ 
+  "id": 20,
+  "path": "/img/brands/Rubrik.png"
+},
+{ 
+  "id": 21,
+  "path": "/img/brands/Ruckus.png"
+},
+{ 
+  "id": 22,
+  "path": "/img/brands/Secureenvoy.png"
+},
+{ 
+  "id": 23,
+  "path": "/img/brands/SintinelsOne.png"
+},
+{ 
+  "id": 24,
+  "path": "/img/brands/Sophos.png"
+},
+{ 
+  "id": 25,
+  "path": "/img/brands/Veeam.png"
+}]
+
+
 }
+
+
