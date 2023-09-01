@@ -273,6 +273,45 @@
       "description": "Chainway printers are compact, user-friendly, reliable and durable. The printers efficiently print barcodes, RFID tags, bills, wristbands.",
       "foto": "/img/assetchainsaw/image7.png"
     }
+  ],
+  "chainsawdetail": [
+
+    {
+      "name_spec": "Operating System",
+      "explain_spec": "Android 11; GMS, 90-day security updates, Android Enterprise Recommended, Zero-Touch, FOTA, Soti MobiControl, SafeUEM supported. Committed support for a future upgrade to Android 12, 13, and Android 14 pending feasibility"
+    },
+    {
+      "name_spec": "CPU",
+      "explain_spec": "Qualcomm Snapdragon™ 662 Octa-core, 2.0 GHz"
+    },
+    {
+      "name_spec": "RAM+ROM",
+      "explain_spec": "3GB + 32GB / 4GB + 64GB"
+    },
+    {
+      "name_spec": "Dimension",
+      "explain_spec": "160.0 x 76.0 x 15.5 / 17.0mm"
+    },
+    {
+      "name_spec": "Battery",
+      "explain_spec": "4200mAh / 5200mAh Removable Main Battery; Support QC3.0 and RTC, Charging time: Only 2.5 Hours; 5200mAh Optional Pistol Battery"
+    },
+    {
+      "name_spec": "Functions",
+      "explain_spec": "Barcode Scanning / UHF RFID / Fingerprint Recognition/ Volume Measurement / NFC / Camera (some are optional)"
+    },
+    {
+      "name_spec": "Optional Accessories",
+      "explain_spec": "Screen Protector / Main Battery / Pistol Battery / Charging Cradle / Type C & Pogo Pin I / O Connector / 4-slots Charging Cradle Set / Rugged Rubber Boot with Hand Strap / Belt Clip"
+    },
+    {
+      "name_spec": "Fingerprint",
+      "explain_spec": "Accurate Fingerprint Reading, enables secure data encryption and fake finger detection 5200mAh Removable Main Battery Support Barcode Scanning and NFC"
+    },
+    {
+      "name_spec": "Volume Measurement",
+      "explain_spec": "Measurement Speed: up to 2s / piece, Measurement Error<5% Measured Distance: 40cm-4m 5200mAh Removable Main Battery Support Barcode Scanning and NFC"
+    }
   ]
 
 
