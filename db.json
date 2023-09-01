@@ -1,4 +1,5 @@
-{ 
+[
+        { 
         id: 1,
         judul: "Transforming Network in Peruri with FortiGate", 
         ringkasan: "Nusa offers a comprehensive solution with FortiGate, safeguarding their network infrastructure.",
@@ -38,3 +39,4 @@
         timeline: "2019",
         solutions: "ERP",
       },
+]
