@@ -40,5 +40,91 @@
         "timeline": "2019",
         "solutions": "ERP"
       }
-    ]
+    ],
+   "dataCompanyLogo" : [
+  { 
+    "id": 1,
+    "path": "/img/Carousell_Logo/allianz.png"
+  },
+  { 
+    "id": 2,
+    "path": "/img/Carousell_Logo/angakasa_pura.png"
+  },
+  { 
+    "id": 3,
+    "path": "/img/Carousell_Logo/bhimasena.png"
+  },
+  { 
+    "id": 4,
+    "path": "/img/Carousell_Logo/briagro.png"
+  },
+  { 
+    "id": 5,
+    "path": "/img/Carousell_Logo/british_council.png"
+  },
+  { 
+    "id": 6,
+    "path": "/img/Carousell_Logo/Gojek.png"
+  },
+  { 
+    "id": 7,
+    "path": "/img/Carousell_Logo/icon.png"
+  },
+  { 
+    "id": 8,
+    "path": "/img/Carousell_Logo/ihg.png"
+  },
+  { 
+    "id": 9,
+    "path": "/img/Carousell_Logo/indika.png"
+  },
+  { 
+    "id": 10,
+    "path": "/img/Carousell_Logo/ingenico.png"
+  },
+  { 
+    "id": 11,
+    "path": "/img/Carousell_Logo/itm.png"
+  },
+  { 
+    "id": 12,
+    "path": "/img/Carousell_Logo/j&t.png"
+  },
+  { 
+    "id": 13,
+    "path": "/img/Carousell_Logo/kalbe.png"
+  },
+  { 
+    "id": 14,
+    "path": "/img/Carousell_Logo/kao.png"
+  },
+  { 
+    "id": 15,
+    "path": "/img/Carousell_Logo/lemeridien.png"
+  },
+  { 
+    "id": 16,
+    "path": "/img/Carousell_Logo/lemeridien.png"
+  },
+  { 
+    "id": 17,
+    "path": "/img/Carousell_Logo/peruru.png"
+  },
+  { 
+    "id": 18,
+    "path": "/img/Carousell_Logo/pii.png"
+  },
+  { 
+    "id": 19,
+    "path": "/img/Carousell_Logo/Sinarmas.png"
+  },
+  { 
+    "id": 20,
+    "path": "/img/Carousell_Logo/taman_safari.png"
+  },
+  { 
+    "id": 21,
+    "path": "/img/Carousell_Logo/telkom.png"
+  }
+  ]
 }
