@@ -1,0 +1,44 @@
+{
+  "dataProjects" : [
+      { 
+        "id": 1,
+        "judul": "Transforming Network in Peruri with FortiGate", 
+        "ringkasan": "Nusa offers a comprehensive solution with FortiGate, safeguarding their network infrastructure.",
+        "foto": "/img/project1.png",
+        "konten": "Anda kutahu semua akan sia-sia takan ku trima cinta sesaat mu.... Bagaimana dengan aku terlanjur mencintaimu yang datang beri harapan lalu pergi dan menghilang tak terfikirkan olehmu hatiku hancur karnmu tanpa sedikit alasan pergi tanpa berpamitan takan ku trima cinta sesaatmu.",
+        "industri": "Pemerintahan",
+        "timeline": "2019",
+        "solutions": "ERP"
+      },
+      {
+        "id": 2,
+        "judul": "Building Stronger Networks Access Point Installations at JNT", 
+        "ringkasan": "Experience enhanced connectivity, improved network performance, and fortified security.",
+        "foto": "/img/project2.png",
+        "konten": "Anda kutahu semua akan sia-sia takan ku trima cinta sesaat mu.... Bagaimana dengan aku terlanjur mencintaimu yang datang beri harapan lalu pergi dan menghilang tak terfikirkan olehmu hatiku hancur karnmu tanpa sedikit alasan pergi tanpa berpamitan takan ku trima cinta sesaatmu.",
+        "industri": "Pemerintahan",
+        "timeline": "2019",
+        "solutions": "ERP"
+      },
+      {
+        "id": 3,
+        "judul": "Elevate Diskominfo infrastructure with Nutanix ", 
+        "ringkasan": "Experience enhanced performance, scalability, and data protection, all while optimizing efficiency.",
+        "foto": "/img/project1.png",
+        "konten": "Anda kutahu semua akan sia-sia takan ku trima cinta sesaat mu.... Bagaimana dengan aku terlanjur mencintaimu yang datang beri harapan lalu pergi dan menghilang tak terfikirkan olehmu hatiku hancur karnmu tanpa sedikit alasan pergi tanpa berpamitan takan ku trima cinta sesaatmu.",
+        "industri": "Pemerintahan",
+        "timeline": "2019",
+        "solutions": "ERP"
+      },
+      {
+        "id": 4,
+        "judul": "Enhancing Mining Security Using FortiGate", 
+        "ringkasan": "We understand the critical nature of mining operations and the value of sensitive data.",
+        "foto": "/img/project2.png",
+        "konten": "Anda kutahu semua akan sia-sia takan ku trima cinta sesaat mu.... Bagaimana dengan aku terlanjur mencintaimu yang datang beri harapan lalu pergi dan menghilang tak terfikirkan olehmu hatiku hancur karnmu tanpa sedikit alasan pergi tanpa berpamitan takan ku trima cinta sesaatmu.",
+        "industri": "Pemerintahan",
+        "timeline": "2019",
+        "solutions": "ERP"
+      }
+    ]
+}
