@@ -1,44 +1,52 @@
 {
   "dataProjects" : [
       { 
-        "id": 1,
-        "judul": "Transforming Network in Peruri with FortiGate", 
+        "id": "British-Council-Indonesia",
+        "judul": "Speeding Up Knowledge, PT. British Council Indonesia’s Fiber Optic Makeover", 
         "ringkasan": "Nusa offers a comprehensive solution with FortiGate, safeguarding their network infrastructure.",
-        "foto": "/img/project1.png",
+        "foto": "/img/blog/image1.webp",
         "konten": "Anda kutahu semua akan sia-sia takan ku trima cinta sesaat mu.... Bagaimana dengan aku terlanjur mencintaimu yang datang beri harapan lalu pergi dan menghilang tak terfikirkan olehmu hatiku hancur karnmu tanpa sedikit alasan pergi tanpa berpamitan takan ku trima cinta sesaatmu.",
         "industri": "Pemerintahan",
         "timeline": "2019",
         "solutions": "ERP"
+        "image-card": "imagecard1.png",
+        "logo": "british_council.png"
       },
       {
-        "id": 2,
-        "judul": "Building Stronger Networks Access Point Installations at JNT", 
+        "id": "Tereos-FKS-Indonesia",
+        "judul": "Fortigate 200F: The Secret Ingredient to PT. Tereos FKS Indonesia’s Digital Success", 
         "ringkasan": "Experience enhanced connectivity, improved network performance, and fortified security.",
-        "foto": "/img/project2.png",
+        "foto": "/img/blog/image2.png",
         "konten": "Anda kutahu semua akan sia-sia takan ku trima cinta sesaat mu.... Bagaimana dengan aku terlanjur mencintaimu yang datang beri harapan lalu pergi dan menghilang tak terfikirkan olehmu hatiku hancur karnmu tanpa sedikit alasan pergi tanpa berpamitan takan ku trima cinta sesaatmu.",
         "industri": "Pemerintahan",
         "timeline": "2019",
-        "solutions": "ERP"
+        "solutions": "ERP",
+        "image-card": "imagecard2.png",
+        "logo": "tereos.png"
       },
       {
-        "id": 3,
-        "judul": "Elevate Diskominfo infrastructure with Nutanix ", 
+        "id": "Politeknik-STIA-LAN-Jakarta",
+        "judul": "Leveling Up Learning and Security, Politeknik STIA LAN Jakarta’s Digital Transformation", 
         "ringkasan": "Experience enhanced performance, scalability, and data protection, all while optimizing efficiency.",
-        "foto": "/img/project1.png",
+        "foto": "/img/blog/image3.png",
         "konten": "Anda kutahu semua akan sia-sia takan ku trima cinta sesaat mu.... Bagaimana dengan aku terlanjur mencintaimu yang datang beri harapan lalu pergi dan menghilang tak terfikirkan olehmu hatiku hancur karnmu tanpa sedikit alasan pergi tanpa berpamitan takan ku trima cinta sesaatmu.",
         "industri": "Pemerintahan",
         "timeline": "2019",
         "solutions": "ERP"
+        "image-card": "imagecard3.png",
+        "logo": "politeknik.png"
       },
       {
-        "id": 4,
-        "judul": "Enhancing Mining Security Using FortiGate", 
+        "id": "Saka-Farma-Laboratories",
+        "judul": "From Bottlenecks to Breakthrough, PT. Saka Farma Laboratories Uncorks Efficiency with HPE ProLiant Servers", 
         "ringkasan": "We understand the critical nature of mining operations and the value of sensitive data.",
-        "foto": "/img/project2.png",
+        "foto": "/img/blog/image4.png",
         "konten": "Anda kutahu semua akan sia-sia takan ku trima cinta sesaat mu.... Bagaimana dengan aku terlanjur mencintaimu yang datang beri harapan lalu pergi dan menghilang tak terfikirkan olehmu hatiku hancur karnmu tanpa sedikit alasan pergi tanpa berpamitan takan ku trima cinta sesaatmu.",
         "industri": "Pemerintahan",
         "timeline": "2019",
         "solutions": "ERP"
+        "image-card": "imagecard4.png",
+        "logo": "kalbe.png"
       }
     ],
    "dataCompanyLogo" : [
@@ -100,10 +108,6 @@
   },
   { 
     "id": 15,
-    "path": "/img/Carousell_Logo/lemeridien.png"
-  },
-  { 
-    "id": 16,
     "path": "/img/Carousell_Logo/lemeridien.png"
   },
   { 
@@ -191,7 +195,7 @@
 },
 { 
   "id": 16,
-  "path": "/img/brands/logoFinalCompleteColored.png"
+  "path": "/img/brands/obscape.png"
 },
 { 
   "id": 17,
@@ -203,7 +207,7 @@
 },
 { 
   "id": 19,
-  "path": "/img/brands/Peplink.png"
+  "path": "/img/brands/chainway.svg"
 },
 { 
   "id": 20,
@@ -219,7 +223,7 @@
 },
 { 
   "id": 23,
-  "path": "/img/brands/SintinelsOne.png"
+  "path": "/img/brands/motadata.png"
 },
 { 
   "id": 24,
@@ -316,9 +320,3 @@
 
 
 }
-
-
-
-
-
-
